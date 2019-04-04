@@ -10,4 +10,4 @@ B = #{display_rainbow[4]}
 I = #{display_rainbow[5]}
 V = #{display_rainbow[6]}
 
-print 
+print R
